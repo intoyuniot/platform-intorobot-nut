@@ -11,7 +11,7 @@
                 "0xEA60"
             ]
         ],
-        "ldscript": "esp8266.flash.intorobot.nut.ld",
+        "ldscript": "eagle.flash.4m.ld",
         "mcu": "esp8266",
         "variant": "intorobot-nut"
     },
