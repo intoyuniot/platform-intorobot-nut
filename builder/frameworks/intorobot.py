@@ -31,7 +31,7 @@ env = DefaultEnvironment()
 platform = env.PioPlatform()
 board = env.BoardConfig()
 
-FRAMEWORK_NAME = "framework-intorobote-nut"
+FRAMEWORK_NAME = "framework-intorobot-nut"
 FRAMEWORK_DIR = platform.get_package_dir(FRAMEWORK_NAME)
 FRAMEWORK_VERSION = platform.get_package_version(FRAMEWORK_NAME)
 assert isdir(FRAMEWORK_DIR)
