@@ -20,7 +20,7 @@
         "arduino",
         "simba"
     ],
-    "name": "IntoRobot Nut",
+    "name": "IntoRobot Nut(ESP8266 Module)",
     "upload": {
         "maximum_ram_size": 81920,
         "maximum_size": 1048576,
